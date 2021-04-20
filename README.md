@@ -3,7 +3,7 @@
 ## Comenzando 🚀
 
 _Este proyecto es desarrollado por Luis Felipe Taddey Espinosa, en la cual se implementaq la pasarela de pago Stripe
-_Dependencia de Web Started, JPA, MysqlDriver y Spring DevTools y como librería stripe_
+_Dependencia de Web Started, JPA, MysqlDriver , Swagger 2, Spring DevTools y como librería stripe_
 
 
 
